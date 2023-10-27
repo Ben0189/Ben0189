@@ -7,9 +7,8 @@
   - [Angular](https://www.ssw.com.au/people/ben-neoh/)
   - [RXJS](https://rxjs.dev/)
 - 📫 How to reach me:
-  - Email: [benneoh@ssw.com.au](benneoh@ssw.com.au)
-    
--🏂Hobby:
+  - Email: [benneoh@ssw.com.au](benneoh@ssw.com.au)    
+- 🏂Hobby:
   - badminton 🏸
   - guitar 🎸
   - swimming 🏊‍♂️
