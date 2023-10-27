@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I work at SSW - Check out [My SSW profile](https://www.ssw.com.au/people/ben-neoh/)
-- 🌱 I’m currently learning Azure and Cloud Technologies
+- 🌱 I’m currently learning Azure, Cloud Technologies and full stack
 - 🏫 I'm enrolled as a software engineering student at UTS
 - 💬 Ask me about
   - [Angular](https://www.ssw.com.au/people/ben-neoh/)
   - [RXJS](https://rxjs.dev/)
+  - [Docker](https://www.docker.com/)
 - 📫 How to reach me:
   - Email: [benneoh@ssw.com.au](benneoh@ssw.com.au)    
 - 🏂Hobby:
