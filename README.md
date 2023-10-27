@@ -8,6 +8,10 @@
   - [RXJS](https://rxjs.dev/)
 - 📫 How to reach me:
   - Email: [benneoh@ssw.com.au](benneoh@ssw.com.au)
+-🏂Hobby:
+  - badminton 🏸
+  - guitar 🎸
+  - swimming 🏊‍♂️
     
 [![Ben Neoh's github stats](https://github-readme-stats.vercel.app/api?username=ben0189&theme=dark)](https://github.com/ben0189/github-readme-stats)
 
