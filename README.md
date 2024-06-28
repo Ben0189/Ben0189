@@ -2,8 +2,9 @@
 
 - 🔭 I work at SSW - Check out [My SSW profile](https://www.ssw.com.au/people/ben-neoh/)
 - ⚡ I'm now working on migrating web application to .NET 8
-- 🌱 I’m currently learning Azure, Cloud Technologies and full stack
-- 🏫 I'm enrolled as a software engineering student at UTS
+- 🐐 I'm a maintainer for [TinaCMS](https://github.com/tinacms/tinacms)
+- 🌱 I’m currently learning CI, Github Action, Azure Pipeline
+- 🏫 I'm final year software engineering student at UTS
 - ✨ I can speak 5 languages (English, Mandarin, Malay, Cantonese, Hokkien)
 - 💬 Ask me about
   - [Angular](https://www.ssw.com.au/people/ben-neoh/)
