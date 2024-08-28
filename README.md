@@ -6,7 +6,7 @@
 - 🌱 I’m currently mastering Azure, DevOps, Github Action, IAC(bicep)
 - 🏫 I'm final year software engineering student at UTS
 - ✨ I can speak 5 languages (English, Mandarin, Malay, Cantonese, Hokkien)
-- 💬 Ask me about
+- 💬 Ask me anything about
   - [Angular](https://www.ssw.com.au/people/ben-neoh/)
   - [RXJS](https://rxjs.dev/)
   - [.NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
