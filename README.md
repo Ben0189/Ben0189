@@ -46,9 +46,10 @@
   <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
-
-
-
-
-[![Ben Neoh's github stats](https://github-readme-stats.vercel.app/api?username=ben0189&theme=dark)](https://github.com/ben0189/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=ben0189&theme=ambient_gradient">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ben0189&theme=ambient_gradient" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ben0189&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben0189&layout=compact" />
+</a>
 
