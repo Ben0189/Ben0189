@@ -18,8 +18,8 @@
   - [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep)
 
 - 📫 How to reach me:
-  - Email: [benneoh@ssw.com.au](benneoh@ssw.com.au)
-  - Personal Email : [benjaminneoh@gmail.com](benjaminneoh@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminneoh/) 
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](benjaminneoh6343@gmail.com)
 
 - 🏂Hobby:
   - badminton 🏸
