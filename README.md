@@ -1,26 +1,31 @@
-### Hi there 👋
+### Hi there 👋 I am Ben
 
-- 🧑🏻‍💻 I am a Full Stack developer - Check out [My LinkedIn](https://www.linkedin.com/in/benjaminneoh/)
-- 🔭 I work at SSW - Check out [My SSW profile](https://www.ssw.com.au/people/ben-neoh/)
-- ⚡ I'm now working on migrating web application from legacy framework to .NET 8
-- 🐐 I'm a maintainer for [TinaCMS](https://github.com/tinacms/tinacms)
-- 🌱 I’m currently mastering Azure, DevOps, Github Action, IAC(bicep)
-- 🏫 I'm final year software engineering student at UTS
-- ✨ I can speak 5 languages (English, Mandarin, Malay, Cantonese, Hokkien)
-- 📝 Check out my personal [blog](https://medium.com/@benjaminneoh6343)
-- 💬 Ask me anything about
-  - [Angular](https://www.ssw.com.au/people/ben-neoh/)
-  - [RXJS](https://rxjs.dev/)
-  - [.NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
-  - [Docker](https://www.docker.com/)
-  - [Dotnet](https://dotnet.microsoft.com/en-us/)
-  - [NextJS](https://nextjs.org/)
+🧑🏻‍💻 I am a Full Stack developer at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
+⚡  I'm now working on migrating entreprise web application from legacy framework to .NET 8 <br>
+🐐 I'm a maintainer for open sources [TinaCMS](https://github.com/tinacms/tinacms) <br>
+🌱 I’m currently mastering Azure, DevOps, Github Action, IAC(bicep) <br>
+🏫 I'm final year software engineering student at UTS <br>
+✨ I can speak 5 languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
+📝 I write [blog](https://medium.com/@benjaminneoh6343) ocasionally <br>
+💬 Ask me anything about 
+<p>
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img alt="NGRX" src="https://img.shields.io/badge/-NGRX-DD0031?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+</p>
 
-- 📫 **How to reach me**: <br>
+📫 **How to reach me**: <br>
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminneoh/) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminneoh6343@gmail.com)
 
-- 🏂**Hobby**: <br>
+🏂**Hobby**: <br>
   badminton 🏸 guitar 🎸 swimming 🏊‍♂️
 
 <h3>The technologies behind my code</h3>
