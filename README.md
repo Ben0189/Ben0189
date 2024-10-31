@@ -17,9 +17,9 @@
   - [NextJS](https://nextjs.org/)
   - [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep)
 
-- 📫 How to reach me:
-  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminneoh/) 
-  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](benjaminneoh6343@gmail.com)
+- 📫 How to reach me: <br>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminneoh/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminneoh6343@gmail.com)
 
 - 🏂Hobby:
   - badminton 🏸
