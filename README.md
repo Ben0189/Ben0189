@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Ben
 
-🧑🏻‍💻 I am a Full Stack developer at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
-⚡  I'm now working on migrating entreprise web application from legacy framework to .NET 8 <br>
-🐐 I'm a maintainer for open sources [TinaCMS](https://github.com/tinacms/tinacms) <br>
-🌱 I’m currently mastering Azure, DevOps, Github Action, IAC(bicep) <br>
+🧑🏻‍💻 I am a **Full Stack developer** at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
+⚡  I'm now working on migrating **entreprise web application** from legacy framework to **.NET 8** <br>
+🐐 I'm a **maintainer for open sources** [TinaCMS](https://github.com/tinacms/tinacms) <br>
+🌱 I’m currently mastering **Azure, DevOps, Github Action, IAC(bicep)** <br>
 🏫 I'm final year software engineering student at UTS <br>
-✨ I can speak 5 languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
+✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
 📝 I write [blog](https://medium.com/@benjaminneoh6343) ocasionally <br>
 💬 Ask me anything about 
 <p>
