@@ -1,13 +1,19 @@
 ### Hi there 👋 I am Ben
 
 🧑🏻‍💻 I am a **Full Stack Engineer** at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
-⚡  I'm now working on migrating **entreprise web application** from legacy framework to **.NET 8** <br>
 🐐 I'm a **maintainer for open sources** [TinaCMS](https://github.com/tinacms/tinacms) <br>
-🐐 I'm currently upgrading [TinaCMS](https://github.com/tinacms/tinacms) to React 19 ⚡️<br>
 🌱 I’m currently mastering **Azure, DevOps, Github Action, IAC(bicep)** <br>
-🏫 I'm final year software engineering student at UTS <br>
+🏫 I'm a graduate of Software Engineering from UTS <br>
 ✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
 📝 I write [blog](https://medium.com/@benjaminneoh6343) ocasionally <br>
+⚡ I'm currently upgrading [TinaCMS](https://github.com/tinacms/tinacms) to React 19 ⚡️<br>
+
+**💼 Project Highlights & Experience**
+
+⚡  Migrated **entreprise web application** from legacy framework to **.NET 8** <br>
+⚡  Migrated **enterprise-level microservices solution** from on premise to Azure using IAC (bicep)<br>
+⚡  Delivered low-code solutions using **Power Apps**, **Microsoft Dynamics** and **Power Automate** for businesses <br>
+
 💬 Ask me anything about 
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
