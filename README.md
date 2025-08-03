@@ -2,11 +2,11 @@
 
 🧑🏻‍💻 I am a **Full Stack Engineer** at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
 🐐 I'm a **maintainer for open sources** [TinaCMS](https://github.com/tinacms/tinacms) <br>
-🌱 I’m currently mastering **Azure, DevOps, Github Action, IAC(bicep)** <br>
+🌱 I’m currently focused on **Azure enterprise environments**  
+🔐 I build, design and scale enterprise-ready **Azure infrastructure** to support secure, high-availability cloud solutions using IaC best practices.
 🏫 I'm a graduate of Software Engineering from UTS <br>
 ✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
 📝 I write [blog](https://medium.com/@benjaminneoh6343) ocasionally <br>
-⚡ I'm currently upgrading [TinaCMS](https://github.com/tinacms/tinacms) to React 19 ⚡️<br>
 
 **💼 Project Highlights & Experience**
 
