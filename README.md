@@ -28,9 +28,6 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminneoh/) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminneoh6343@gmail.com)
 
-🏂**Hobby**: <br>
-  badminton 🏸 guitar 🎸 swimming 🏊‍♂️
-
 <h3>The technologies behind my code</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
