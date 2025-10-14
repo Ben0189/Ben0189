@@ -6,7 +6,6 @@
 🔐 I build and architect enterprise-ready **Azure infrastructure** to support secure, high-availability cloud solutions <br>
 🏫 I'm a graduate of Software Engineering from UTS <br>
 ✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
-📝 I write [blog](https://medium.com/@benjaminneoh6343) ocasionally <br>
 
 **💼 Project Highlights & Experience**
 
