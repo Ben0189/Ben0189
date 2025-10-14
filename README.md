@@ -4,7 +4,6 @@
 🐐 I'm a **maintainer for open sources** [TinaCMS](https://github.com/tinacms/tinacms) <br>
 🌱 I’m currently focused on **Azure enterprise environments** and **IAC (Bicep)** <br>
 🔐 I build and architect enterprise-ready **Azure infrastructure** to support secure, high-availability cloud solutions <br>
-🏫 I'm a graduate of Software Engineering from UTS <br>
 ✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
 
 **💼 Project Highlights & Experience**
@@ -23,8 +22,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-  <img alt="NGRX" src="https://img.shields.io/badge/-NGRX-DD0031?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
 </p>
 
 📫 **How to reach me**: <br>
