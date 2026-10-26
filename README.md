@@ -2,15 +2,17 @@
 
 🧑🏻‍💻 I am a **Full Stack Engineer** at SSW - Check out [My Profile](https://www.ssw.com.au/people/ben-neoh/) <br>
 🐐 I'm a **maintainer for open sources** [TinaCMS](https://github.com/tinacms/tinacms) <br>
-🌱 I’m currently focused on **Azure enterprise environments** and **IAC (Bicep)** <br>
+🌱 I’m currently focused on **enterprise AI solutions** (Azure AI Foundry, AI agents), **enterprise Azure infrastructure** and **Azure security** <br>
 🔐 I build and architect enterprise-ready **Azure infrastructure** to support secure, high-availability cloud solutions <br>
 ✨ I can speak **5** languages (English, Mandarin, Malay, Cantonese, Hokkien) <br>
 
 **💼 Project Highlights & Experience**
 
-⚡  Migrated **entreprise web application** from legacy framework to **.NET 8** <br>
+⚡  Migrated **enterprise web application** from legacy framework to **.NET 8** <br>
 ⚡  Migrated **enterprise-level microservices solution** from on premise to Azure using IAC (bicep)<br>
 ⚡  Delivered low-code solutions using **Power Apps**, **Microsoft Dynamics** and **Power Automate** for businesses <br>
+⚡  Architect **custom AI solutions** on **Azure AI Foundry** that turn client business problems into working AI apps <br>
+⚡  Wrote SSW guidance on securing **AI apps on Azure** with **private networking** and **managed identities** <br>
 
 💬 Ask me anything about 
 <p>
@@ -22,6 +24,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img alt="Azure AI Foundry" src="https://img.shields.io/badge/-Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 </p>
 
 📫 **How to reach me**: <br>
